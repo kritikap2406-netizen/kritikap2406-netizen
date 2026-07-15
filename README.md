@@ -18,7 +18,7 @@
 - 🎓 AIML Summer Intern @ **IIHMF, MNNIT Allahabad**
 - 💡 Interested in machine learning, data-driven apps, and clean, usable UI and automation
 - 🌍 Based in India
-- ⚡ Fun fact: I like turning raw datasets into things people can actually *use*, not just charts nobody opens
+- ⚡ Fun fact: I like to tweal small ideas from the real world problems and datasets into things people can actually **use**, not just charts nobody opens
 
 <!-- Replace or remove any of the lines above with things true to you -->
 
@@ -68,8 +68,6 @@
   <!-- Replace # with your real profile URLs -->
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kritika.p2406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
 
 <div align="center">
   <sub>⭐️ Thanks for stopping by — check out my pinned repos below!</sub>
