@@ -41,12 +41,6 @@
 
 ### 📌 Featured Project
 
-<a href="https://github.com/kritikap2406-netizen/STASHUP-Bengaluru_housing_price_prediction_app">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kritikap2406-netizen&repo=STASHUP-Bengaluru_housing_price_prediction_app&theme=tokyonight&border_color=A78BFA" />
-</a>
-
-<br clear="both"/>
-
 ---
 
 ### 📊 GitHub Stats
