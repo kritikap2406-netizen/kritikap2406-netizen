@@ -46,11 +46,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kritikap2406-netizen&show_icons=true&theme=tokyonight&border_color=A78BFA&hide_border=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikap2406-netizen&layout=compact&theme=tokyonight&border_color=A78BFA&hide_border=false" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=kritikap2406-netizen&theme=tokyonight&border=A78BFA&hide_border=false" alt="GitHub Streak" />
 </p>
 
